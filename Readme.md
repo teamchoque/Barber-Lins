@@ -14,5 +14,5 @@
 -- STYLE HEDER
 -- STYLE MAIN
 -- STYLE FOOTER
--- imagens
+-- imagens barber
 
