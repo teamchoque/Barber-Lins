@@ -1,18 +1,24 @@
-# SITE BARBEARIA 
+# Barber lins 
 
-## CRIAR INDEX 
+Em construção
 
-## LAYOUT 
- -- HEDER 
- -- MAIN 
- -- FOOTER
+## 🚀 Começando
 
-## CONTEUDO 
+Projeto em construção!!
 
-## CRIAR CSS
+### 📋 Tecnologias
 
--- STYLE HEDER
--- STYLE MAIN
--- STYLE FOOTER
--- imagens barber
+ -- HTML
+ -- CSS
+ -- JAVASCRIPT
 
+## 🖇️ Repositorio
+
+Segue o link (https://github.com/teamchoque/Barber-Lins.git)
+
+## 📌 Versão
+
+Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+
+---
+⌨️ com ❤️ por [Michael ROMERO](https://github.com/teamchoque) 😊
