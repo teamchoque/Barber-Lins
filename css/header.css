@@ -9,9 +9,7 @@
   }
   
   .logo {
-    width: 62px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
+    width: 60px;
   }
   
   nav {
@@ -20,7 +18,7 @@
     align-items: center;
     font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
     background: #23232e;
-    height: 8vh;
+    height: 10vh;
   }
   
   .nav-list {
